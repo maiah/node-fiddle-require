@@ -1,4 +1,4 @@
-node-require-fiddle
+node-fiddle-require
 ===================
 
 Node's "require" method for JS Fiddle
